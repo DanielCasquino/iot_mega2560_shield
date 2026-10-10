@@ -699,7 +699,7 @@
         "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
-    "used_designators": "#PWR8-30,BZ1,D1-5,D_BUZZER1,I2C1,J8-10,LDR1,Power_1x9-10,Q1-2,R1-2,RV1,R_BUZZER1,R_LDR1,R_LED2-6,R_SW3,R_SW_RESET1,SW1-3,SW_RESET1,T_BUZZER1,U1",
+    "used_designators": "#FLG1-5,#PWR8-30,BZ1,D1-5,D_BUZZER1,I2C1,J8-10,LDR1,Power_1x9-10,Q1-2,R1-2,RV1,R_BUZZER1,R_LDR1,R_LED2-6,R_SW3,R_SW_RESET1,SW1-3,SW_RESET1,T_BUZZER1,U1",
     "variants": []
   },
   "sheets": [
